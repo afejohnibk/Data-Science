@@ -1,2 +1,2 @@
 # Data-Science
-Data Science, machine learning and deeep learning projects
+Data Science, machine learning and deep learning projects
